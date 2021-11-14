@@ -1,0 +1,6 @@
+const dias = ["Segunda-Feira:", "Terça-Feira:", "Quarta-Feira:"]
+const tarefas = ["Estudar ingles", "Estudar programação", "Estudar matemática"]
+
+console.log(dias[0],tarefas[0]);
+console.log(dias[1],tarefas[1]);
+console.log(dias[2],tarefas[2]);
